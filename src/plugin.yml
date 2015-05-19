@@ -1,0 +1,10 @@
+name: EconomySystem
+main: com.lekohd.economysystem.EconomySystem
+version: 1.0
+author: Leon167
+description: Network Coins.
+commands:
+  coins:
+    description: Main Command.
+  gems:
+    description: Other Main Command.
